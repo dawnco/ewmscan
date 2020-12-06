@@ -3,6 +3,13 @@
 
 开发环境 android studio 4.1 
 
+# 示例
+![Image text](./doc/1.png)
+![Image text](./doc/2.png)
+![Image text](./doc/3.png)
+
+
+
 
 ### 问题
 java.lang.NoSuchMethodError: No interface method sort(Ljava/util/Comparator;)V in class Ljava/util/List; or its super classes (declaration of 'java.util.List' appears in /system/framework/core-libart.jar)
